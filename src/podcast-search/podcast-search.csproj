@@ -56,8 +56,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands.cs" />
+    <Compile Include="Extensions\UriExtensions.cs" />
+    <Compile Include="Parsers\ItunesParser.cs" />
+    <Compile Include="Podcast.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validation\IsUriAttribute.cs" />
+    <Compile Include="Validation\IsUriValidator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

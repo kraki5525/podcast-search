@@ -1,13 +1,48 @@
 ﻿<RecentFiles>
   <RecentFiles>
     <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:packages.config" caret="0" fromTop="0" />
-    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Program.cs" caret="211" fromTop="11" />
-    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:FetchCommandTests.cs" caret="159" fromTop="8" />
-    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="273" fromTop="10" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:IsUriValidatorTests.cs" caret="467" fromTop="20" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriAttribute.cs" caret="345" fromTop="16" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriValidator.cs" caret="545" fromTop="16" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Podcast.cs" caret="0" fromTop="0" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Program.cs" caret="272" fromTop="15" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Extensions/f:UriExtensions.cs" caret="179" fromTop="8" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:FetchCommandTests.cs" caret="123" fromTop="7" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="444" fromTop="16" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="812" fromTop="28" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/d:Test-Data/f:ItunesTestPage.html" caret="398" fromTop="14" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:ItunesParserTests.cs" caret="1191" fromTop="46" />
   </RecentFiles>
   <RecentEdits>
-    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Program.cs" caret="208" fromTop="11" />
-    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:FetchCommandTests.cs" caret="171" fromTop="8" />
-    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="262" fromTop="9" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriAttribute.cs" caret="362" fromTop="24" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:FetchCommandTests.cs" caret="123" fromTop="7" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriAttribute.cs" caret="363" fromTop="19" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriValidator.cs" caret="0" fromTop="0" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:IsUriValidatorTests.cs" caret="477" fromTop="21" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriValidator.cs" caret="566" fromTop="17" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriValidator.cs" caret="227" fromTop="9" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Validation/f:IsUriValidator.cs" caret="546" fromTop="16" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:IsUriValidatorTests.cs" caret="525" fromTop="22" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:IsUriValidatorTests.cs" caret="219" fromTop="11" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Program.cs" caret="299" fromTop="15" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="410" fromTop="19" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="539" fromTop="32" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="410" fromTop="27" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Extensions/f:UriExtensions.cs" caret="807" fromTop="27" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="365" fromTop="18" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Extensions/f:UriExtensions.cs" caret="180" fromTop="8" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="362" fromTop="18" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="764" fromTop="8" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="764" fromTop="25" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="764" fromTop="17" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="166" fromTop="9" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="311" fromTop="13" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="524" fromTop="20" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/f:Commands.cs" caret="540" fromTop="20" />
+    <File id="26A877C4-FF19-4053-B54F-71D72D14E1D6/d:Parsers/f:ItunesParser.cs" caret="834" fromTop="28" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:ItunesParserTests.cs" caret="352" fromTop="16" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:ItunesParserTests.cs" caret="639" fromTop="28" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/d:Test-Data/f:ItunesTestPage.html" caret="476" fromTop="16" />
+    <File id="CEE986B3-0B90-4965-A086-239739F91FC8/f:ItunesParserTests.cs" caret="1192" fromTop="46" />
   </RecentEdits>
 </RecentFiles>

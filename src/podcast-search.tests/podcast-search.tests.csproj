@@ -37,6 +37,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CLAP">
+      <HintPath>..\packages\CLAP.4.3\lib\net35\CLAP.dll</HintPath>
+    </Reference>
     <Reference Include="FluentAssertions">
       <HintPath>..\packages\FluentAssertions.1.7.1.1\Lib\net40\FluentAssertions.dll</HintPath>
     </Reference>
@@ -53,10 +56,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FetchCommandTests.cs" />
+    <Compile Include="IsUriValidatorTests.cs" />
+    <Compile Include="ItunesParserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\podcast-search\podcast-search.csproj">
+      <Project>{26A877C4-FF19-4053-B54F-71D72D14E1D6}</Project>
+      <Name>podcast-search</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Test-Data\ItunesTestPage.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

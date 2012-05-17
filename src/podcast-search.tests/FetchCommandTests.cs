@@ -5,8 +5,6 @@ namespace podcast_search.tests
     [TestFixture]
     public class FetchCommandTests
     {
-        [Test]
-        public void 
 
     }
 }
