@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="26A877C4-FF19-4053-B54F-71D72D14E1D6" ModuleId="podcast-search" />
+  <Module PersistentId="CEE986B3-0B90-4965-A086-239739F91FC8" ModuleId="podcast-search.tests" />
+</Modules>
