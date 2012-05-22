@@ -14,7 +14,8 @@ namespace podcast_search
         public void FetchCommand(Uri uri)
         {
             string html = uri.GetWebPage();
-            var parser = new ItunesParser();
+            var webClient = new WebClient();
+            var parser = new ItunesParser(webClient);
             IEnumerable<Podcast> podcasts = parser.Parse(html);
         }
     }

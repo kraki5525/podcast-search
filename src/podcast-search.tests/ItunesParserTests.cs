@@ -47,7 +47,10 @@ namespace podcast_search.tests
         [Test]
         public void Parse_Returns_Enumerable_From_Valid_Page()
         {
-            //var html = File.ReadAllText("")
+            var html = File.ReadAllText("./Test-Data/ItunesTestPage.html");
+            var results = parser.Parse(html);
+
+            results.Should().NotBeEmpty();
         }
     }
 }

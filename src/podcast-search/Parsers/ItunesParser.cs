@@ -5,8 +5,15 @@ using HtmlAgilityPack;
 
 namespace podcast_search.Parsers
 {
-    public class ItunesParser
+    public class ItunesParser : IParser
     {
+        private readonly WebClient _client;
+
+        public ItunesParser(WebClient client)
+        {
+            _client = client;
+        }
+
         public IEnumerable<Podcast> Parse(string html)
         {
             if (html.Length == 0)
